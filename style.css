@@ -1,5 +1,5 @@
 body {
-    background-color: #fff3e0;
+    background-color: #ffe0b2;
     font-family: Arial, sans-serif;
     max-width: 600px;
     margin: 0 auto;
@@ -21,7 +21,11 @@ ul {
 }
 
 li {
-    margin-bottom: 8px;
+    background-color: white;
+    padding: 12px;
+    margin-bottom: 12px;
+    border-radius: 12px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
 }
 
 .boton {
