@@ -58,3 +58,10 @@ footer {
     margin-top: 30px;
     font-size: 14px;
 }
+@media (min-width: 900px) {
+    body {
+        max-width: 800px;
+    }
+
+}
+
