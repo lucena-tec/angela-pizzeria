@@ -15,9 +15,8 @@ Hecho:
 - [x] Estilos CSS y menú con Flexbox
 - [x] Mensaje de "abierto" o "cerrado" con JavaScript
 - [x] Publicada con GitHub Pages
-
+- [x] Agregar fotos de cada plato del restaurante
 Pendientes:
-- [ ] Agregar fotos de cada plato del restaurante
 - [ ] Agregar la dirección y las redes sociales oficiales
 - [ ] Crear un dominio propio
 - [ ] Mejorar el menú para que sea más fácil de actualizar
